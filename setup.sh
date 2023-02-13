@@ -1,0 +1,1 @@
+#RM <none> img $ docker images -f “dangling=true” -q
